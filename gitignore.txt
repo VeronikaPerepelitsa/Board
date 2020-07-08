@@ -1,0 +1,6 @@
+Ad.cpp
+Ad.dfm
+BBoard.exe
+BulletinBoard.cpp
+BulletinBoard.dfm
+BulletinBoard.h
